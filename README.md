@@ -17,6 +17,6 @@ Various programs created as a result of course projects.
 * Second year linear signals and systems project
 * Filter bank implemented in MATLAB to reduce analog sound signals into 12 frequency bands for a cochlear implant.
 
-### ELEC0024_fft.py
+### ELEC0024_FFT.py
 * Third year digitial signal processing course
 * Implementation of the Fast Fourier Transform using Python
